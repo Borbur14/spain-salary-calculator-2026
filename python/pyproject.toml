@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "borbur-calc"
+version = "1.0.0"
+description = "Spain 2026 net salary (AEAT withholding), Beckham Law, US take-home pay, Spain vs Dubai/US salary equivalents, UAE gratuity and D'Hondt. Same formulas as borbur.net."
+readme = "../README.md"
+license = {text = "MIT"}
+authors = [{name = "Borja Burguillos"}]
+requires-python = ">=3.8"
+keywords = ["spain", "net salary", "irpf", "2026", "beckham law", "dubai", "uae gratuity", "dhondt"]
+
+[project.urls]
+Homepage = "https://borbur.net/developers/"
+Source = "https://github.com/Borbur14/spain-salary-calculator-2026"
