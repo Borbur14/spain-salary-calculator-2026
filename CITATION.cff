@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Spain salary and tax calculator 2026 and open data (borbur.net)"
+authors:
+  - family-names: Burguillos
+    given-names: Borja
+    website: "https://borbur.net"
+version: 1.0.0
+date-released: 2026-11-19
+url: "https://borbur.net/data/"
+repository-code: "https://github.com/Borbur14/spain-salary-calculator-2026"
+license: MIT
+keywords: [Spain, net salary, IRPF, 2026, Beckham Law, Dubai, UAE gratuity, D'Hondt, open data]
