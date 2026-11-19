@@ -1,0 +1,27 @@
+{
+  "name": "spain-salary-calculator-2026",
+  "version": "1.0.0",
+  "description": "Spain 2026 net salary (AEAT withholding), Beckham Law, US take-home pay, Spain vs Dubai/US salary equivalents, UAE gratuity and D'Hondt. Same formulas as borbur.net.",
+  "type": "module",
+  "main": "index.mjs",
+  "exports": "./index.mjs",
+  "license": "MIT",
+  "author": "Borja Burguillos (https://borbur.net)",
+  "homepage": "https://borbur.net/developers/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Borbur14/spain-salary-calculator-2026"
+  },
+  "keywords": [
+    "spain",
+    "net-salary",
+    "irpf",
+    "2026",
+    "salary-calculator",
+    "beckham-law",
+    "dubai",
+    "uae-gratuity",
+    "dhondt",
+    "tax"
+  ]
+}
