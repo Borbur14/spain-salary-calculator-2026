@@ -61,6 +61,15 @@ All datasets are also listed at [borbur.net/data](https://borbur.net/data/).
 - **UAE gratuity**: 21 days of basic salary per year for the first 5 years, 30 days after, capped at 24 months of basic salary.
 - **Elections**: seats per Royal Decree 806/2026; electors per INE roll of 9 Oct 2026.
 
+## Related open data
+
+- **[Digital money for HR](https://github.com/Borbur14/digital-money-for-hr)**: a bilingual (EN/ES) glossary of 60 stablecoin, token and pay terms, and a stablecoin job map (CC BY 4.0).
+- More calculators (UK take-home pay, Spain minimum wage 2027, a digital-money readiness check) are available through the [MCP server and API](https://borbur.net/developers/).
+
+## About the author
+
+[Borja Burguillos](https://borbur.net/about/) writes about money, pay and work. His books: *[Why Bitcoin Had to Exist](https://borbur.net/books/why-bitcoin-had-to-exist/)* (in Spanish, *[Por qué existe Bitcoin](https://borbur.net/es/libros/por-que-existe-bitcoin/)*), *[Stablecoins for a Better World](https://borbur.net/books/stablecoins-for-a-better-world/)* and *[Beyond the Game](https://borbur.net/books/beyond-the-game/)*.
+
 ## Licence and credit
 
 Code: MIT. Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please credit **“Borja Burguillos, borbur.net”** with a link to [borbur.net](https://borbur.net).
